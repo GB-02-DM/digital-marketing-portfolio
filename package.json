@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://gopikab02.github.io/digital-marketing-portfolio",
+  "homepage": "https://gb-02-dm.github.io/digital-marketing-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
