@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="50" r="45" fill="#FFFFFF"/>
+  <circle cx="100" cy="50" r="40" fill="none" stroke="#1E90FF" stroke-width="2"/>
+  <path d="M80 50 C 85 40, 115 40, 120 50" fill="none" stroke="#1E90FF" stroke-width="2"/>
+  <path d="M80 50 C 85 60, 115 60, 120 50" fill="none" stroke="#1E90FF" stroke-width="2"/>
+  <text x="100" y="40" font-family="Arial" font-size="12" font-weight="bold" fill="#1E90FF" text-anchor="middle">FISHERMAN'S</text>
+  <text x="100" y="60" font-family="Arial" font-size="16" font-weight="bold" fill="#1E90FF" text-anchor="middle">HUB</text>
+</svg> 

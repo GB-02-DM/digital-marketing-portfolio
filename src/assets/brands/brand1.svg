@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="100" fill="#000"/>
+  <path d="M50 30 Q 75 10, 100 30 Q 125 10, 150 30 Q 150 60, 100 80 Q 50 60, 50 30" fill="none" stroke="#FF9900" stroke-width="3"/>
+  <text x="100" y="60" font-family="Arial" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">DayDome</text>
+  <path d="M60 70 L 140 70" stroke="#FF0000" stroke-width="2"/>
+</svg> 

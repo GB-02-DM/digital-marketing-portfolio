@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="100" fill="#000000"/>
+  <text x="100" y="55" font-family="Arial" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">SPORTS</text>
+  <text x="140" y="55" font-family="Arial" font-size="20" font-weight="bold" fill="#FF4500" text-anchor="middle" letter-spacing="1">BAY</text>
+  <path d="M40 60 L 160 60" stroke="#333333" stroke-width="1"/>
+</svg> 
